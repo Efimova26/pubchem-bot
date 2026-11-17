@@ -1,4 +1,3 @@
-"""Тесты без интернета: PubChem подменяется фейковым сервером (httpx.MockTransport)."""
 import asyncio
 import sys
 from pathlib import Path
